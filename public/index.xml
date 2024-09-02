@@ -30,6 +30,13 @@
       <description>This is Ruchen&amp;rsquo;s personal website.</description>
     </item>
     <item>
+      <title>Project</title>
+      <link>//localhost:4321/project/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <guid>//localhost:4321/project/</guid>
+      <description>This is the project page</description>
+    </item>
+    <item>
       <title>Lorem Ipsum</title>
       <link>//localhost:4321/2015/01/01/lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
